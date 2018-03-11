@@ -8,7 +8,9 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>Depends: MobileSubstrate</package>
+		<package>Updated: March 11th 2018</package>
+		<package>License: Free Package</package>
 	</dependencies>
 	<descriptionlist>
 		<description>True Dark Mode for Snapchat.</description>

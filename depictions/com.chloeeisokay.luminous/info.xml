@@ -1,6 +1,6 @@
 <package>
-	<id>com.chloeeisoaky.luminious</id>
-	<name>Luminious</name>
+	<id>com.chloeeisoaky.luminous</id>
+	<name>Luminous</name>
 	<version>0.3.1</version>
 	<compatibility>
 		<firmware>
@@ -14,7 +14,7 @@
 		<description>True Dark Mode for Snapchat.</description>
 	</descriptionlist>
 	<screenshots>
-		<screenshot>
+		<screenshot>s
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
 		</screenshot>		

@@ -4,20 +4,24 @@
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>8.0</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>Anemone</package>
+	</dependencies>
 	<descriptionlist>
-		<description>icon requests message me on Twitter @chloeeisoaky</description>
+		<description>Icon requests message me on Twitter @chloeeisoaky</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>s
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
-		<change>Beta Version</change>
+		<change>Added 200+ Icons</change>
 	</changelog>
-	<links></links>
 </package>

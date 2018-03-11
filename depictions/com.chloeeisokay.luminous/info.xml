@@ -15,16 +15,29 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>s
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>1.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>s
+			<image>2.png</image>
 		</screenshot>		
+		<screenshot>
+			<image>4.png</image>
+		</screenshot>
+		<screenshot>s
+			<image>5.png</image>
+		</screenshot>		
+		<screenshot>
+			<image>6.png</image>
+		</screenshot>
+		<screenshot>s
+			<image>7.png</image>
+		</screenshot>				
 	</screenshots>
 	<changelog>
-		<change>Fixed my Eyes Only Passcode Background too black.</change>
+		<change>Fixed "My Eyes Only" passcode background being too black.</change>
 		<change>Old UI Support coming soon..</change>
 	</changelog>
 </package>

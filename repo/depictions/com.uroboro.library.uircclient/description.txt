@@ -1,0 +1,17 @@
+{
+	"packageID":"com.uroboro.library.uircclient"
+	, "name":"libuIRCClient"
+	, "developer":"uroboro"
+	, "twitter":"uroboro845"
+	, "developerSite":"https://github.com/uroboro"
+	, "description":[
+		  "Small C IRC client library in the works."
+	]
+	, "changelog":[
+		  "0.0.1-14", "First!"
+		, "0.0.1-15", "Fields in control file (Depends) can't be empty."
+		, "0.0.1-16", "Still trying."
+		, "0.0.1-19", "Dummy dependency."
+	]
+	, "screenshotCount":0
+}

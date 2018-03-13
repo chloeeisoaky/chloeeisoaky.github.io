@@ -12,7 +12,6 @@ MD5sum: 0e26a8a3bed3b3bfad3fe9e51188d855
 SHA1: ffbde24f06be0fcd4ba95a65ec043740045f4907
 SHA256: 29b45f8ecc474de74fb5ebc6f0d8f029e54055bf330fc50db304694854715110
 Depiction: https://chloeeisoaky.github.io/depictions/com.chloeeisokay.luminous/index.html
-Icon: ./debs/com.chloeeisoaky.luminous.png
 
 Package: com.chloeeisoaky.clotus
 Name: Clotus Theme

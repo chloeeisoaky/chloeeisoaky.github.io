@@ -2,14 +2,25 @@ Package: com.chloeeisoaky.unlit
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Chloeeisoaky 
-Filename: /package/unlit/unlit.deb
-Size: 1,340,366
+Filename: ./package/unlit/unlit.deb
+Size: 1340366
 MD5sum: 3844048f9cbae2c09f905e2dbc6827e6
-SHA1: 7bb8127e8fc444f79d46370a450812e5b15dd47d
-SHA256: f8e08e4532054a7f65e52dc9eaab5b5c585e2f6ec2444616d66a758eef913d44
 Section: Tweaks
 Description: OLED Dark Mode for Instagram
 Author: Chloeeisoaky
 Name: Instagram Unlit
 Depiction: https://chloeeisoaky.github.io/package/unlit/index.html
+
+Package: com.chloee.colorify
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chloeeisoaky 
+Filename: ./package/colorify/colorify.deb
+Size: 52868
+MD5sum: 06f7550b0a7c30df589edcc3485a7e08
+Section: Tweaks
+Description: Spotify UI Color Changer beta
+Author: chloeeisoaky
+Name: colorify
+Depiction: https://chloeeisoaky.github.io/package/colorify/index.html
 

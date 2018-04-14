@@ -6,9 +6,9 @@ Filename: ./package/unlit/unlit.deb
 Size: 1340366
 MD5sum: 3844048f9cbae2c09f905e2dbc6827e6
 Section: Tweaks
-Description: OLED Dark Mode for Instagram
+Description: Dark Mode for Instagram
 Author: Chloeeisoaky
-Name: Instagram Unlit
+Name: Unlit for Instagram
 Depiction: https://chloeeisoaky.github.io/package/unlit/index.html
 
 Package: com.chloee.colorify
@@ -19,8 +19,8 @@ Filename: ./package/colorify/colorify.deb
 Size: 52868
 MD5sum: 06f7550b0a7c30df589edcc3485a7e08
 Section: Tweaks
-Description: Spotify UI Color Changer beta
+Description: Spotify UI Color Changer 
 Author: chloeeisoaky
-Name: colorify
+Name: Colorify for Spotify
 Depiction: https://chloeeisoaky.github.io/package/colorify/index.html
 

@@ -3,8 +3,8 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Chloeeisoaky 
 Filename: ./package/unlit/unlit.deb
-Size: 1340366
-MD5sum: 3844048f9cbae2c09f905e2dbc6827e6
+Size: 134042
+MD5sum: ed0eb16329024b00df548d98a875d790
 Section: Tweaks
 Description: Dark Mode for Instagram
 Author: Chloeeisoaky
@@ -29,8 +29,8 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Chloeeisoaky 
 Filename: ./package/luminous/luminous.deb
-Size: 85780
-MD5sum: 319f09b70241e9db6cb832cf06e325e9
+Size: 85638
+MD5sum: e22788abf796db1897ab76568bb8a18e
 Section: Tweaks
 Description: Dark Mode for Snapchat
 Author: chloeeisoaky

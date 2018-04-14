@@ -1,0 +1,38 @@
+Package: com.chloeeisoaky.unlit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chloeeisoaky 
+Filename: ./package/unlit/unlit.deb
+Size: 1340366
+MD5sum: 3844048f9cbae2c09f905e2dbc6827e6
+Section: Tweaks
+Description: Dark Mode for Instagram
+Author: Chloeeisoaky
+Name: Unlit for Instagram
+Depiction: https://chloeeisoaky.github.io/package/unlit/index.html
+
+Package: com.chloee.colorify
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Chloeeisoaky 
+Filename: ./package/colorify/colorify.deb
+Size: 60906
+MD5sum: 2abe88b5440d0b5bb90a623653e25bbc
+Section: Tweaks
+Description: Spotify UI Color Changer beta
+Author: chloeeisoaky
+Name: Colorify for Spotify
+Depiction: https://chloeeisoaky.github.io/package/colorify/index.html
+
+Package: com.chloeeisoaky.luminous
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Chloeeisoaky 
+Filename: ./package/luminous/luminous.deb
+Size: 85780
+MD5sum: 319f09b70241e9db6cb832cf06e325e9
+Section: Tweaks
+Description: Dark Mode for Snapchat
+Author: chloeeisoaky
+Name: Luminous for Snapchat
+Depiction: https://chloeeisoaky.github.io/package/luminous/index.html
